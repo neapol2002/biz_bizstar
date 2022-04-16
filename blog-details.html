@@ -1,0 +1,605 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <!-- Required meta tags -->
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+        <!-- Bootstrap CSS -->
+        <link rel="stylesheet" href="assets/css/bootstrap.min.css">
+		<!-- Font-awesome CSS -->
+        <link rel="stylesheet" href="assets/css/fontawesome-all.min.css">
+		<!-- Icofont CSS -->
+        <link rel="stylesheet" href="assets/css/icofont.css">
+		<!-- Animate CSS -->
+        <link rel="stylesheet" href="assets/css/animate.css">
+		<!-- Owl Carousel CSS -->
+        <link rel="stylesheet" href="assets/css/owl.carousel.css">
+        <!-- Eco-Lightbox CSS -->
+        <link rel="stylesheet" href="assets/css/ekko-lightbox.css">
+		<!-- Style CSS -->
+        <link rel="stylesheet" href="style.css">
+		<!-- Responsive CSS -->
+        <link rel="stylesheet" href="assets/css/responsive.css">
+        <!-- Default Color CSS -->
+        <link rel="stylesheet" href="assets/css/color/color-default.css">
+        <link rel="stylesheet" href="assets/dist/color-switcher.css">
+        <title>BizStar - Responsive Multi-Purpose HTML Template</title>
+    </head>
+    <body>
+        <!-- Start Preloader -->
+        <div id="loader">
+            <div class="spinner">
+                <div class="double-bounce1"></div>
+                <div class="double-bounce2"></div>
+            </div>
+        </div>
+        <!-- End Preloader -->
+
+        <!-- Start Main Menu Area -->
+        <div id="home" class="mainmenu-area">
+            <nav class="navbar navbar-expand-lg fixed-top" id="mainNav">
+                <div class="container">
+                    <a class="navbar-brand" href="index.html"><img src="assets/img/logo.png" alt="Logo"></a>
+                    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                        <i class="fas fa-bars"></i>
+                    </button>
+
+                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                        <ul class="navbar-nav mr-auto w-100 justify-content-end">
+                            <li class="nav-item">
+                                <a class="nav-link js-scroll-trigger" href="#home">Home <span class="sr-only">(current)</span></a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link js-scroll-trigger" href="#services">Services</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link js-scroll-trigger" href="#features">Features</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link js-scroll-trigger" href="#portfolio">Portfolio</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link js-scroll-trigger" href="#process">Process</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link js-scroll-trigger" href="#blog">Blog</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link js-scroll-trigger" href="#contact">Contact</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link btn btn-signup" href="#signupModal" data-toggle="modal" data-target="#signupModal">Signup now</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </nav>
+        </div>
+        <!-- End Start Main Menu Area -->
+
+        <!-- SignUp & SignIn Form -->
+        <div class="modal fade signup-signin-modal" id="signupModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+            <div class="modal-dialog" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <h5 class="modal-title">SignUp & SignIn Form</h5>
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true">&times;</span>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        <ul class="nav nav-tabs" id="myTab" role="tablist">
+                            <li class="nav-item">
+                                <a class="nav-link active" id="signup-tab" data-toggle="tab" href="#signup" role="tab" aria-controls="signup" aria-selected="true">SignUp</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" id="signin-tab" data-toggle="tab" href="#signin" role="tab" aria-controls="signin" aria-selected="false">SignIn</a>
+                            </li>
+                        </ul>
+                        
+                        <div class="tab-content" id="myTabContent">
+                            <div class="tab-pane fade show active" id="signup" role="tabpanel" aria-labelledby="signup-tab">
+                                <form>
+                                    <div class="form-group">
+                                        <input type="text" class="form-control" id="first_name" placeholder="First Name"> 
+                                    </div>
+                                    <div class="form-group">
+                                        <input type="text" class="form-control" id="last_name" placeholder="Last Name"> 
+                                    </div>
+                                    <div class="form-group">
+                                        <input type="email" class="form-control" id="email_address" placeholder="Email address">
+                                    </div>
+                                    <div class="form-group">
+                                        <input type="password" class="form-control" id="pass" placeholder="Password">
+                                    </div>
+                                    <div class="text-center">
+                                        <button type="button" class="btn btn-common">SignUp</button>
+                                    </div>
+                                </form>
+                            </div>
+                
+                            <div class="tab-pane fade" id="signin" role="tabpanel" aria-labelledby="signin-tab">
+                                <form>
+                                    <div class="form-group">
+                                        <input type="email" class="form-control" id="email-address" placeholder="Email address">
+                                    </div>
+                                    <div class="form-group">
+                                        <input type="password" class="form-control" id="password" placeholder="Password">
+                                    </div>
+                                    <div class="text-center">
+                                        <button type="button" class="btn btn-common">SignIn</button>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- End SignUp & SignIn Form -->
+    
+    
+        <!-- Start page header area -->
+        <section class="page-header-area"> 
+            <div class="d-table w-100 h-100">
+                <div class="d-table-cell align-middle">
+                    <div class="container"> 
+                        <div class="row"> 
+                            <div class="col-md-12"> 
+                                <div class="page-header-text text-center">
+                                    <h1>Blog Details</h1>
+                                    <nav aria-label="breadcrumb">
+                                        <ol class="breadcrumb">
+                                            <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+                                            <li class="breadcrumb-item"><a href="blog.html">Blog List</a></li>
+                                            <li class="breadcrumb-item active" aria-current="page">Blog Details</li>
+                                        </ol>
+                                    </nav>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- End page header area -->
+    
+    
+        <!-- Start Blog Area -->
+        <section id="blog" class="blog-area ptb-80">
+            <div class="container"> 
+                <div class="row"> 
+                    <div class="col-lg-8 col-xl-9"> 
+                        <div class="blog-details">
+                            <div class="blog-preview-img">
+                                <img src="assets/img/blog/blog-details-img.jpg" alt="Blog Details Image" />
+                            </div>
+                            <h2 class="heading">What's So Trendy About Motorcycle Stunt Riding</h2>
+                            <ul class="post-info"> 
+                                <li>By: <a href="#">Lynda Wu</a></li>
+                                <li>28 March 2018</li>
+                                <li>3 Comments</li>
+                                <li>Sports</li>
+                            </ul>
+                            
+                            <p>Making sure you have a lot of content ready to go for your eCommerce blog can be a tall order sometimes. Especially, when you can’t think of new topics to write about. Here are 8 must write blog topics that you can write about!</p>
+
+                            <h5>All About Your Products</h5>
+                            <p>You already have your product descriptions telling your customer what the products are about, but creating a blog post specifically for that product and going into detail about it goes one step further. Talk more about what the purpose of the product is, how you can use it, and include any fun behind-the-scenes footage that you may have from creating the product.</p>
+                            <p>Continuing on with the idea of posting about your products, if you’re noticing a purchasing trend of products being purchased together, or you have a group of products meant to be sold as a unit but can be purchased separately, take advantage of your blog and showcase these items all in a single post. This idea gets the idea into their heads that they should be buying these products together, rather than just buying one single product. It’s important to post about your products and in this case, you can post about one single item or a group. For instance, if you sell camping gear, rather than just posting a backpack, think about posting a backpack along with a water bottle, some shoes, and other gear that would be best for a hiking trip.</p>
+
+                            <h5>Highlight Multiple Products in a Single Blog Post</h5>
+                            <p>Continuing on with the idea of posting about your products, if you’re noticing a purchasing trend of products being purchased together, or you have a group of products meant to be sold as a unit but can be purchased separately, take advantage of your blog and showcase these items all in a single post. This idea gets the idea into their heads that they should be buying these products together, rather than just buying one single product. It’s important to post about your products and in this case, you can post about one single item or a group. For instance, if you sell camping gear, rather than just posting a backpack, think about posting a backpack along with a water bottle, some shoes, and other gear that would be best for a hiking trip.</p>
+
+                            <h5>About Your Products</h5>
+                            <p>You already have your product descriptions telling your customer what the products are about, but creating a blog post specifically for that product and going into detail about it goes one step further. Talk more about what the purpose of the product is, how you can use it, and include any fun behind-the-scenes footage that you may have from creating the product.</p>
+                        </div>
+                        
+                        <div class="comment-container">
+                            <h4 class="comments-heading">3 Comments</h4>
+                            <div class="comment-lists">
+                                <ul> 
+                                    <li>
+                                        <div class="single-comment">
+                                            <img src="assets/img/blog/avater1.jpg" alt="Avater Image" />
+                                            <div class="comment-text">
+                                                <h4>Dorian Gray, <span>20:45, Feb. 28-2018</span></h4>
+                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+                                                <a href="#"><i class="icofont icofont-comment"></i> Replay</a>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    
+                                    <li class="margin-left-60">
+                                        <div class="single-comment">
+                                            <img src="assets/img/blog/avater2.jpg" alt="Avater Image" />
+                                            <div class="comment-text">
+                                                <h4>Dorian Gray, <span>20:45, Feb. 28-2018</span></h4>
+                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+                                                <a href="#"><i class="icofont icofont-comment"></i> Replay</a>
+                                            </div>
+                                        </div>
+                                    </li>
+                                            
+                                    <li>
+                                        <div class="single-comment">
+                                            <img src="assets/img/blog/avater3.jpg" alt="Avater Image" />
+                                            <div class="comment-text">
+                                                <h4>Dorian Gray, <span>20:45, Feb. 28-2018</span></h4>
+                                                <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.</p>
+                                                <a href="#"><i class="icofont icofont-comment"></i> Replay</a>
+                                            </div>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div>
+                            
+                            <div class="comment-form">
+                                <h4 class="comments-heading">Leave a Comment</h4>
+                                <form>
+                                    <div class="row"> 
+                                        <div class="col-md-6"> 
+                                            <div class="form-group">
+                                                <input type="text" class="form-control" id="name" placeholder="Name">
+                                            </div>
+                                        </div>
+                                        
+                                        <div class="col-md-6"> 
+                                            <div class="form-group">
+                                                <input type="email" class="form-control" id="email" placeholder="E-mail">
+                                            </div>
+                                        </div>
+                                    </div>
+                                    
+                                    <div class="form-group">
+                                        <input type="text" class="form-control" id="website" placeholder="Website">
+                                    </div>
+                                            
+                                    <div class="form-group">
+                                        <textarea class="form-control" id="comment" rows="8" placeholder="Comment"></textarea>
+                                    </div>
+                                   
+                                    <div class="text-right">
+                                        <button type="submit" class="btn btn-common">Submit</button>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                    
+                    <div class="col-lg-4 col-xl-3"> 
+                        <div class="sidebar mt-40">
+                            <div class="search-widget">
+                                <form>
+                                    <input type="text" class="form-control" id="search" placeholder="Search...">
+                                    <button type="submit" class="btn search-btn"><i class="icofont icofont-search-alt-2"></i></button>
+                                </form>
+                            </div>
+                            
+                            <div class="category-widget mt-30">
+                                <h3 class="widget-title">Category</h3>
+                                <ul class="category-list"> 
+                                    <li><a href="#"><i class="icofont icofont-thin-right"></i> Adevertisement</a></li>
+                                    <li><a href="#"><i class="icofont icofont-thin-right"></i> Agency</a></li>
+                                    <li><a href="#"><i class="icofont icofont-thin-right"></i> Branding</a></li>
+                                    <li><a href="#"><i class="icofont icofont-thin-right"></i> Branding Agency </a></li>
+                                    <li><a href="#"><i class="icofont icofont-thin-right"></i> Business</a></li>
+                                    <li><a href="#"><i class="icofont icofont-thin-right"></i> Clean</a></li>
+                                    <li><a href="#"><i class="icofont icofont-thin-right"></i> Corporate</a></li>
+                                    <li><a href="#"><i class="icofont icofont-thin-right"></i> Designer</a></li>
+                                    <li><a href="#"><i class="icofont icofont-thin-right"></i> Digital Agency</a></li>
+                                    <li><a href="#"><i class="icofont icofont-thin-right"></i> Fashion</a></li>
+                                    <li><a href="#"><i class="icofont icofont-thin-right"></i> Feature</a></li>
+                                    <li><a href="#"><i class="icofont icofont-thin-right"></i> Full Width</a></li>
+                                    <li><a href="#"><i class="icofont icofont-thin-right"></i> Designing</a></li>
+                                    <li><a href="#"><i class="icofont icofont-thin-right"></i> Graphic Design</a></li>
+                                </ul>
+                            </div>
+                            
+                            <div class="tags-widget mt-30">
+                                <h3 class="widget-title">Tags</h3>
+                                <ul class="tags-list"> 
+                                    <li><a href="#"><i class="icofont icofont-thin-right"></i> Adevertisement</a></li>
+                                    <li><a href="#"><i class="icofont icofont-thin-right"></i> Agency</a></li>
+                                    <li><a href="#"><i class="icofont icofont-thin-right"></i> Branding</a></li>
+                                    <li><a href="#"><i class="icofont icofont-thin-right"></i> Branding Agency </a></li>
+                                    <li><a href="#"><i class="icofont icofont-thin-right"></i> Business</a></li>
+                                    <li><a href="#"><i class="icofont icofont-thin-right"></i> Clean</a></li>
+                                    <li><a href="#"><i class="icofont icofont-thin-right"></i> Corporate</a></li>
+                                    <li><a href="#"><i class="icofont icofont-thin-right"></i> Designer</a></li>
+                                    <li><a href="#"><i class="icofont icofont-thin-right"></i> Digital Agency</a></li>
+                                    <li><a href="#"><i class="icofont icofont-thin-right"></i> Fashion</a></li>
+                                    <li><a href="#"><i class="icofont icofont-thin-right"></i> Feature</a></li>
+                                    <li><a href="#"><i class="icofont icofont-thin-right"></i> Full Width</a></li>
+                                    <li><a href="#"><i class="icofont icofont-thin-right"></i> Designing</a></li>
+                                    <li><a href="#"><i class="icofont icofont-thin-right"></i> Graphic Design</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- End Blog Area -->
+        
+        
+        <!-- Start Blog Area -->
+        <section id="blog" class="blog">
+            <div class="blog-slides">
+                <div class="blog-single-slide">
+                    <img src="assets/img//blog/blog-img3.jpg" alt="Image Description">
+                    <div class="thumb-overlay">
+                        <div class="thumb-content">
+                            <h3><a href="#">the revelation of sun glass.</a></h3>
+                            <div class="thumb-meta">
+                                <span>15 comments</span> | <span>25 Feb, 2018</span>
+                            </div>
+                            <div class="thumb-icons">
+                                <ul>
+                                    <li><a href="assets/img//blog/blog-img3.jpg" data-toggle="lightbox" data-type="image"><i class="icofont icofont-search-alt-2"></i></a></li>
+                                    <li><a href="#"><i class="icofont icofont-link-alt"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="blog-single-slide">
+                    <img src="assets/img/blog/blog-img4.jpg" alt="Image Description">
+                    <div class="thumb-overlay">
+                        <div class="thumb-content">
+                            <h3><a href="#">the revelation of sun glass.</a></h3>
+                            <div class="thumb-meta">
+                                <span>15 comments</span> | <span>25 Feb, 2018</span>
+                            </div>
+                            <div class="thumb-icons">
+                                <ul>
+                                    <li><a href="assets/img/blog/blog-img4.jpg" data-toggle="lightbox" data-type="image"><i class="icofont icofont-search-alt-2"></i></a></li>
+                                    <li><a href="#"><i class="icofont icofont-link-alt"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="blog-single-slide">
+                    <img src="assets/img/blog/blog-img7.jpg" alt="Image Description">
+                    <div class="thumb-overlay">
+                        <div class="thumb-content">
+                            <h3><a href="#">Clarifications On Motorcycle Stunt.</a></h3>
+                            <div class="thumb-meta">
+                                <span>15 comments</span> | <span>25 Feb, 2018</span>
+                            </div>
+                            <div class="thumb-icons">
+                                <ul>
+                                    <li><a href="assets/img/blog/blog-img7.jpg" data-toggle="lightbox" data-type="image"><i class="icofont icofont-search-alt-2"></i></a></li>
+                                    <li><a href="#"><i class="icofont icofont-link-alt"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="blog-single-slide">
+                    <img src="assets/img/blog/blog-img6.jpg" alt="Image Description">
+                    <div class="thumb-overlay">
+                        <div class="thumb-content">
+                            <h3><a href="#"> Tips To Avoid Failure In Beauty.</a></h3>
+                            <div class="thumb-meta">
+                                <span>15 comments</span> | <span>25 Feb, 2018</span>
+                            </div>
+                            <div class="thumb-icons">
+                                <ul>
+                                    <li><a href="assets/img/blog/blog-img6.jpg" data-toggle="lightbox" data-type="image"><i class="icofont icofont-search-alt-2"></i></a></li>
+                                    <li><a href="#"><i class="icofont icofont-link-alt"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+    
+                <div class="blog-single-slide">
+                    <img src="assets/img/blog/blog-img5.jpg" alt="Image Description">
+                    <div class="thumb-overlay">
+                        <div class="thumb-content">
+                            <h3><a href="#">The Reasons Tourists Love Animal.</a></h3>
+                            <div class="thumb-meta">
+                                <span>15 comments</span> | <span>25 Feb, 2018</span>
+                            </div>
+                            <div class="thumb-icons">
+                                <ul>
+                                    <li><a href="assets/img/blog/blog-img5.jpg" data-toggle="lightbox" data-type="image"><i class="icofont icofont-search-alt-2"></i></a></li>
+                                    <li><a href="#"><i class="icofont icofont-link-alt"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+    
+                <div class="blog-single-slide">
+                    <img src="assets/img/blog/blog-img8.jpg" alt="Image Description">
+                    <div class="thumb-overlay">
+                        <div class="thumb-content">
+                            <h3><a href="#">Quick Tips For Building.</a></h3>
+                            <div class="thumb-meta">
+                                <span>15 comments</span> | <span>25 Feb, 2018</span>
+                            </div>
+                            <div class="thumb-icons">
+                                <ul>
+                                    <li><a href="assets/img/blog/blog-img8.jpg" data-toggle="lightbox" data-type="image"><i class="icofont icofont-search-alt-2"></i></a></li>
+                                    <li><a href="#"><i class="icofont icofont-link-alt"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="blog-single-slide">
+                    <img src="assets/img/blog/blog-img9.jpg" alt="Image Description">
+                    <div class="thumb-overlay">
+                        <div class="thumb-content">
+                            <h3><a href="#">the revelation of sun glass.</a></h3>
+                            <div class="thumb-meta">
+                                <span>15 comments</span> | <span>25 Feb, 2018</span>
+                            </div>
+                            <div class="thumb-icons">
+                                <ul>
+                                    <li><a href="assets/img/blog/blog-img8.jpg" data-toggle="lightbox" data-type="image"><i class="icofont icofont-search-alt-2"></i></a></li>
+                                    <li><a href="#"><i class="icofont icofont-link-alt"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="blog-single-slide">
+                    <img src="assets/img/blog/blog-img10.jpg" alt="Image Description">
+                    <div class="thumb-overlay">
+                        <div class="thumb-content">
+                            <h3><a href="#">the revelation of sun glass.</a></h3>
+                            <div class="thumb-meta">
+                                <span>15 comments</span> | <span>25 Feb, 2018</span>
+                            </div>
+                            <div class="thumb-icons">
+                                <ul>
+                                    <li><a href="assets/img/blog/blog-img10.jpg" data-toggle="lightbox" data-type="image"><i class="icofont icofont-search-alt-2"></i></a></li>
+                                    <li><a href="#"><i class="icofont icofont-link-alt"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="blog-single-slide">
+                    <img src="assets/img/blog/blog-img9.jpg" alt="Image Description">
+                    <div class="thumb-overlay">
+                        <div class="thumb-content">
+                            <h3><a href="#">the revelation of sun glass.</a></h3>
+                            <div class="thumb-meta">
+                                <span>15 comments</span> | <span>25 Feb, 2018</span>
+                            </div>
+                            <div class="thumb-icons">
+                                <ul>
+                                    <li><a href="assets/img/blog/blog-img9.jpg" data-toggle="lightbox" data-type="image"><i class="icofont icofont-search-alt-2"></i></a></li>
+                                    <li><a href="#"><i class="icofont icofont-link-alt"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                
+                <div class="blog-single-slide">
+                    <img src="assets/img/blog/blog-img2.jpg" alt="Image Description">
+                    <div class="thumb-overlay">
+                        <div class="thumb-content">
+                            <h3><a href="#">the revelation of sun glass.</a></h3>
+                            <div class="thumb-meta">
+                                <span>15 comments</span> | <span>25 Feb, 2018</span>
+                            </div>
+                            <div class="thumb-icons">
+                                <ul>
+                                    <li><a href="assets/img/blog/blog-img2.jpg" data-toggle="lightbox" data-type="image"><i class="icofont icofont-search-alt-2"></i></a></li>
+                                    <li><a href="#"><i class="icofont icofont-link-alt"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="blog-single-slide">
+                    <img src="assets/img/blog/blog-img1.jpg" alt="Image Description">
+                    <div class="thumb-overlay">
+                        <div class="thumb-content">
+                            <h3><a href="#">the revelation of sun glass.</a></h3>
+                            <div class="thumb-meta">
+                                <span>15 comments</span> | <span>25 Feb, 2018</span>
+                            </div>
+                            <div class="thumb-icons">
+                                <ul>
+                                    <li><a href="assets/img/blog/blog-img1.jpg" data-toggle="lightbox" data-type="image"><i class="icofont icofont-search-alt-2"></i></a></li>
+                                    <li><a href="#"><i class="icofont icofont-link-alt"></i></a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+        <!-- End Blog Area -->
+        
+        
+        <!-- Start Footer Area -->
+        <footer class="footer footer-bg">
+            <div class="container">
+                <div class="footer-inner-content text-center">
+                    <div class="footer-logo">
+                        <a href="index.html"><img src="assets/img/logo.png" alt="Logo"></a>
+                    </div>
+
+                    <div class="footer-menu">
+                        <ul>
+                            <li><a href="#home" class="js-scroll-trigger">Home</a></li>
+                            <li><a href="#services" class="js-scroll-trigger">Services</a></li>
+                            <li><a href="#features" class="js-scroll-trigger">Features</a></li>
+                            <li><a href="#portfolio" class="js-scroll-trigger">Portfolio</a></li>
+                            <li><a href="#process" class="js-scroll-trigger">Process</a></li>
+                            <li><a href="#blog" class="js-scroll-trigger">Blog</a></li>
+                            <li><a href="#contact" class="js-scroll-trigger">Contact</a></li>
+                        </ul>
+                    </div>                                                                       
+                    <div class="social-share-icons">
+                        <ul>
+                            <li><a href="#"><i class="icofont icofont-social-facebook"></i></a></li>
+                            <li><a href="#"><i class="icofont icofont-social-twitter"></i></a></li>
+                            <li><a href="#"><i class="icofont icofont-brand-linkedin"></i></a></li>
+                            <li><a href="#"><i class="icofont icofont-social-pinterest"></i></a></li>
+                            <li><a href="#"><i class="icofont icofont-social-tumblr"></i></a></li>
+                            <li><a href="#"><i class="icofont icofont-social-vimeo"></i></a></li>
+                            <li><a href="#"><i class="icofont icofont-social-instagram"></i></a></li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="footer-bottom text-center">
+                    <p>2018 © All Rights Reserved.</p>
+                </div>
+            </div>
+        </footer>
+        <!-- End Footer Area -->
+
+        <!-- Back to top -->
+        <a class="scrolltop" href="#top"><i class="icofont icofont-thin-up"></i></a>
+		<!-- End Back to top -->
+
+
+        <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+        <script src="assets/js/jquery-min.js"></script>
+        <script src="assets/js/popper.min.js"></script>
+        <script src="assets/js/bootstrap.min.js"></script>
+		<!-- Owl Carousel JS FILE -->
+        <script src="assets/js/owl.carousel.min.js"></script>
+		<!-- Jquery Easing JS FILE -->
+        <script src="assets/js/jquery.easing.min.js"></script>
+		<!-- Scrolling NAV JS FILE -->
+        <script src="assets/js/scrolling-nav.js"></script>
+        <!-- ECO LIGHT JS FILES -->
+        <script src="assets/js/ekko-lightbox.min.js"></script>
+		<!-- Wow JS FILE -->
+        <script src="assets/js/wow.min.js"></script>
+        <!-- Waypoints JS FILES -->
+        <script src="assets/js/waypoints.min.js"></script>
+        <!-- Counter JS FILES -->
+        <script src="assets/js/jquery.counterup.min.js"></script>
+        <!-- Form Validator JS FILES -->
+        <script src="assets/js/form-validator.min.js"></script>
+        <!-- Contact Form JS FILES -->
+        <script src="assets/js/contact-form-script.js"></script>
+        <!-- Map API JS FILES -->
+        <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyApghCIIx9MpQhA768sKXxvR_Okg0SF2k4&callback=initMap"></script>
+		<!-- BizStar Map JS FILE -->
+        <script src="assets/js/bizstar-map.js"></script>
+		<!-- Main JS FILE -->
+        <script src="assets/js/main.js"></script>
+        <script src="assets/dist/color-switcher.js"></script>
+        <script src="assets/dist/active-switcher.js"></script>
+    </body>
+</html>

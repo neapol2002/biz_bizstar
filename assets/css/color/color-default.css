@@ -1,0 +1,109 @@
+/*
+ Default: #ffac00;
+ */
+ a:hover,
+ a:focus {
+   color: #ffac00;
+ }
+ .btn-common {
+    border: 2px solid #ffac00;
+    border-bottom: 3px solid #ffac00;
+    background-color: #ffac00;
+  }
+  .btn-signup {
+    border-bottom: 3px solid #ffac00;
+    background-color: #ffac00;
+  }
+  .btn-common:hover {
+    color: #ffac00;
+    border: 2px solid #ffac00;
+    border-bottom: 3px solid #ffac00;
+  }
+  .btn-border:hover {
+    background-color: #ffac00;
+  }
+  .mainmenu-area .fixed-top .navbar-nav .nav-link.active {
+    color: #ffac00;
+}
+.mainmenu-area .fixed-top.menu-bg .navbar-nav .nav-link.active {
+    color: #ffac00;
+}
+.mainmenu-area .fixed-top.menu-bg a.navbar-brand {
+    color: #ffac00;
+}
+.navbar-expand-lg .navbar-toggler {
+	background: #ffac00;
+}
+.signup-signin-modal .nav-tabs .nav-item.show .nav-link, 
+.signup-signin-modal .nav-tabs .nav-link.active {
+    background-color: #ffac00;
+    border-color: #ffac00;
+}
+.home-slides .owl-nav div:hover {
+    color: #ffac00;
+}
+.service-inner-content .link-circle {
+	background: #ffac00;
+}
+.blog-single-slide .thumb-icons ul li a:hover{
+    background: #ffac00;
+}
+.blog-slides .owl-nav div {
+	color: #ffac00;
+}
+.page-header-text .breadcrumb-item a {
+    color: #ffac00;
+}
+.post-text-foot .read-more-btn {
+    border: 2px solid #ffac00;
+}
+.post-text-foot .read-more-btn:hover {
+    background-color: #ffac00;
+}
+.search-widget .search-btn {
+    background: #ffac00;
+}
+.widget-title::before {
+    background-color: #ffac00;
+}
+.category-list li a:hover {
+    color: #ffac00;
+}
+.tags-list li a:hover {
+    color: #ffac00;
+}
+.pagination-item:hover,
+.pagination-item.is-active {
+    background-color: #ffac00;
+}
+.pagination-link--wide:hover {
+    color: #ffac00;
+  }
+  .post-info li a {
+    color: #ffac00;
+}
+.post-info li::before {
+    background-color: #ffac00;
+}
+.comment-text a {
+    color: #ffac00;
+}
+.cta-area {
+    background: #ffac00;
+}
+.team-member-social-icons ul li a:hover{
+    background: #ffac00;
+}
+.view-img-link {
+    background-color: rgba(255,172,0, .8);
+}
+.footer-menu ul li a:hover, .social-share-icons ul li a:hover {
+    color: #ffac00;
+}
+.error-text h1 {
+    color: #ffac00;
+}
+.slide-btn .btn-common {
+    background-color: #ffac00;
+    border-color: #ffac00;
+}

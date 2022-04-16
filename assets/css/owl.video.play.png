@@ -1,0 +1,395 @@
+<!DOCTYPE html>
+<html lang="en">
+ 	<head>
+	    <meta charset="utf-8">
+	    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+	    <meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="keywords" content="Free templates, Bootstrap Responsive Templates, Iphone Compatible Templates, Smartphone Compatible Templates, Ipad Compatible Templates, Flat Responsive Templates"/>
+	    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+	    <title>Envy Theme - Free & Premium High Quality Templates</title>
+
+	    <!-- Bootstrap -->
+	    <link href="css/bootstrap.min.css" rel="stylesheet">
+			
+		<link href="css/style.css" rel="stylesheet">
+		<!-- <link href="css/bootstrapValidator.min.css" rel="stylesheet"> -->
+
+	    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+	    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+	    <!--[if lt IE 9]>
+	      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+	      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+	    <![endif]-->
+  	</head>
+  	<body>
+		<section id="intro">
+      		<div class="intro-body text-center">
+        		<div class="container">
+					<div class="row">
+						<div class="intro-content">
+							<div class="logo">
+								<h1><img src="img/envytheme.png" class="img-responsive" alt="Logo"></h1>								<h2>EnvyTheme</h2>
+							</div>
+							<!-- //.logo -->
+							
+
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+
+				<h1 class="premium-heading">Premium Themes</h1>
+
+			</div>
+		</div>
+	</div>
+	<div class="container">
+		<div class="row">
+			<div style="margin-bottom:30px;" class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+				<div class="item">
+					<a class="theme-link" href="https://themeforest.net/item/runhill-powerful-minimal-construction-html-template/20089564?_ga=2.194538533.900081545.1503817560-1607993035.1503552211" target="_blank">Runhill - Powerfull Minimal Construc...</a>
+					<div class="hovereffect">
+						<img class="img-responsive" src="img/runhill.png" alt="Runhill">
+						<div class="overlay">
+							 <h2>Runhill</h2>
+							 <a class="info" href="https://themeforest.net/item/runhill-powerful-minimal-construction-html-template/20089564?_ga=2.194538533.900081545.1503817560-1607993035.1503552211" target="_blank">Buy from Theme Forest</a>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="clearfix visible-xs-block"></div>
+			<div style="margin-bottom:30px;" class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+				<div class="item">
+					<a class="theme-link" href="https://themeforest.net/item/lawn-expert-gardening-lawn-and-landscaping-html-template/20252421" target="_blank">Lawn Expert - Gardening, Lawn ...</a>
+					<div class="hovereffect">
+						<img class="img-responsive" src="img/lawn-expert.jpg" alt="Lawn Expert">
+						<div class="overlay">
+							 <h2>Lawn Expert</h2>
+							 <a class="info" href="https://themeforest.net/item/lawn-expert-gardening-lawn-and-landscaping-html-template/20252421" target="_blank">Buy from Theme Forest</a>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="clearfix visible-xs-block"></div>
+			<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+				<div class="item">
+					<a class="theme-link" href="https://themeforest.net/item/pro-consultants-business-consulting-and-professional-services-website-template/20404782" target="_blank">Pro Consultants - Business Consult...</a>
+					<div class="hovereffect">
+						<img class="img-responsive" src="img/pro-consultant.jpg" alt="Consultants">
+						<div class="overlay">
+							 <h2>Pro Consultants</h2>
+							 <a class="info" href="https://themeforest.net/item/pro-consultants-business-consulting-and-professional-services-website-template/20404782" target="_blank">Buy from Theme Forest</a>
+						</div>
+					</div>
+				</div>
+			</div>						
+			<div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">				
+				<div class="item">					
+					<a class="theme-link" href="https://themeforest.net/item/raise-multipurpose-onepage-responsive-website-template/20529948?s_rank=1" target="_blank">Raise - Multipurpose OnePage...</a>					
+					<div class="hovereffect">						
+						<img class="img-responsive" src="img/raise.jpg" alt="">					<div class="overlay">							 
+							<h2>Raise</h2>							 
+							<a class="info" href="https://themeforest.net/item/raise-multipurpose-onepage-responsive-website-template/20529948?s_rank=1" target="_blank">Buy from Theme Forest</a>						
+						</div>					
+					</div>				
+				</div>			
+			</div>
+			<div style="margin-top:30px;" class="col-lg-6 col-md-6 col-sm-6 col-xs-12">		
+				<div class="item">					
+					<a class="theme-link" href="https://themeforest.net/item/milkwash-cleaning-service-company-website-html-template/20634224?s_rank=60" target="_blank">MilkWash - Cleaning Service...</a>					
+					<div class="hovereffect">						
+						<img class="img-responsive" src="img/01_preview._large_preview.jpg" alt="MilkWash">						
+						<div class="overlay">							 
+							<h2>MilkWash</h2>							 
+								<a class="info" href="https://themeforest.net/item/milkwash-cleaning-service-company-website-html-template/20634224?s_rank=60" target="_blank">Buy from Theme Forest</a>						
+						</div>					
+					</div>				
+				</div>			
+			</div>
+					
+			<div style="margin-top:30px;" class="col-lg-6 col-md-6 col-sm-6 col-xs-12">		
+				<div class="item">					
+					<a class="theme-link" href="https://themeforest.net/item/heroapp-multipurpose-creative-app-landing-page-html5-template/20756640?s_rank=1" target="_blank">HeroApp - Multipurpose Creative App Landing ...</a>					
+					<div class="hovereffect">						
+						<img class="img-responsive" src="img/hero-app.jpg" alt="HeroApp">						
+						<div class="overlay">							 
+						<h2>HeroApp</h2>
+							<a class="info" href="https://themeforest.net/item/heroapp-multipurpose-creative-app-landing-page-html5-template/20756640?s_rank=1" target="_blank">Buy from Theme Forest</a>					
+						</div>					
+					</div>				
+				</div>			
+			</div>
+			<div class="clearfix visible-xs-block"></div>
+			
+			<div style="margin-top:30px;" class="col-lg-6 col-md-6 col-sm-6 col-xs-12">		
+				<div class="item">					
+					<a class="theme-link" href="https://themeforest.net/item/autoservicing-auto-service-garageworkshop-website-template/20816259?s_rank=1" target="_blank">AutoServicing - Auto Service & Garage/Workshop ......</a>					
+					<div class="hovereffect">						
+						<img class="img-responsive" src="img/autoservicing.jpg" alt="AutoServicing">						
+						<div class="overlay">							 
+						<h2>AutoServicing</h2>
+							<a class="info" href="https://themeforest.net/item/autoservicing-auto-service-garageworkshop-website-template/20816259?s_rank=1" target="_blank">Buy from Theme Forest</a>
+						</div>					
+					</div>				
+				</div>			
+			</div>
+			
+            
+            <div style="margin-top:30px;" class="col-lg-6 col-md-6 col-sm-6 col-xs-12">		
+				<div class="item">					
+					<a class="theme-link" href="https://themeforest.net/item/pet-clinic-veterinary-responsive-html-template/21037880?s_rank=1" target="_blank"> Pet Clinic - Veterinary Responsive HTML Template</a>					
+					<div class="hovereffect">						
+						<img class="img-responsive" src="img/pet_clinic.jpg" alt="AutoServicing">						
+						<div class="overlay">							 
+						<h2>Pet Clinic</h2>
+							<a class="info" href="https://themeforest.net/item/pet-clinic-veterinary-responsive-html-template/21037880?s_rank=1" target="_blank">Buy from Theme Forest</a>
+						</div>					
+					</div>				
+				</div>			
+			</div>
+			
+			<div style="margin-top:30px;" class="col-lg-6 col-md-6 col-sm-6 col-xs-12">		
+				<div class="item">					
+					<a class="theme-link" href="https://themeforest.net/item/linnet-multipurpose-html-website-template/21247659?s_rank=1" target="_blank"> LINNET - Multipurpose HTML Website Template</a>					
+					<div class="hovereffect">						
+						<img class="img-responsive" src="img/linnet.jpg" alt="Linnet">						
+						<div class="overlay">							 
+						<h2>LINNET</h2>
+							<a class="info" href="https://themeforest.net/item/linnet-multipurpose-html-website-template/21247659?s_rank=1" target="_blank">Buy from Theme Forest</a>
+						</div>					
+					</div>				
+				</div>			
+			</div>
+			
+			<div style="margin-top:30px;" class="col-lg-6 col-md-6 col-sm-6 col-xs-12">		
+				<div class="item">					
+					<a class="theme-link" href="https://themeforest.net/item/roxy-responsive-multipurpose-template/21352732?s_rank=1" target="_blank"> Roxy - Multipurpose Responsive Template</a>					
+					<div class="hovereffect">						
+						<img class="img-responsive" src="img/roxy.jpg" alt="Linnet">						
+						<div class="overlay">							 
+						<h2>LINNET</h2>
+							<a class="info" href="https://themeforest.net/item/roxy-responsive-multipurpose-template/21352732?s_rank=1" target="_blank">Buy from Theme Forest</a>
+						</div>					
+					</div>				
+				</div>			
+			</div>
+			
+            <div style="margin-top:30px;" class="col-lg-6 col-md-6 col-sm-6 col-xs-12">		
+				<div class="item">					
+					<a class="theme-link" href="https://themeforest.net/item/battle-creative-multipurpose-bootstrap-template/21634934?s_rank=1" target="_blank"> BATTLE | Creative Multi-Purpose Template</a>					
+					<div class="hovereffect">						
+						<img class="img-responsive" src="img/battle.jpg" alt="Battle">						
+						<div class="overlay">							 
+						<h2>BATTLE</h2>
+							<a class="info" href="https://themeforest.net/item/battle-creative-multipurpose-bootstrap-template/21634934?s_rank=1" target="_blank">Buy from Theme Forest</a>
+						</div>					
+					</div>				
+				</div>			
+			</div>
+            
+            
+		</div>
+	</div>
+
+		
+		
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+				<h1 class="free-heading">Free Themes</h1>
+			</div>
+		</div>
+	</div>
+	<div class="container">
+		<div class="row">
+			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+				<div class="item">
+					<a class="theme-link" href="http://envytheme.com/Martian/" target="_blank">MARTIAN - Responsive Portfolio Theme</a>
+					<div class="hovereffect">
+						<img class="img-responsive" src="img/martian_screenshot.png" alt="">
+						<div class="overlay">
+							 <h2>MARTIAN</h2>
+							 <a class="info" href="http://envytheme.com/Martian/" target="_blank">Preview</a>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="clearfix visible-xs-block"></div>
+			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+				<div class="item">
+					<a class="theme-link" href="http://envytheme.com/HappyAdmin/" target="_blank">HAPPY - Responsive Admin Theme</a>
+					<div class="hovereffect">
+						<img class="img-responsive" src="img/happy_dmin.png" alt="">
+						<div class="overlay">
+							 <h2>HAPPY</h2>
+							 <a class="info" href="http://envytheme.com/HappyAdmin/" target="_blank">Preview</a>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="clearfix visible-xs-block"></div>
+			<div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+				<div class="item">
+					<a class="theme-link" href="http://envytheme.com/RimJim/" target="_blank">RIMJIM - Responsive Parallax Theme</a>
+					<div class="hovereffect">
+						<img class="img-responsive" src="img/rimjhim.png" alt="">
+						<div class="overlay">
+							 <h2>RIMJIM</h2>
+							 <a class="info" href="http://envytheme.com/RimJim/" target="_blank">Preview</a>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="clearfix visible-xs-block"></div>
+			<div style="margin-top:25px;" class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+				<div class="item">
+					<a class="theme-link" href="http://envytheme.com/Tuntuni/" target="_blank">TUNTUNI - Responsive Agency <br>Theme</a> 
+					<div class="hovereffect">
+						<img class="img-responsive" src="img/tunatuni.png" alt="">
+						<div class="overlay">
+							 <h2>TUNTUNI</h2>
+							 <a class="info" href="http://envytheme.com/Tuntuni/" target="_blank">Preview</a>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+			<div class="clearfix visible-xs-block"></div>
+			<div style="margin-top:25px;" class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+				<div class="item">
+					<a class="theme-link" href="http://envytheme.com/Dreamweb/" target="_blank">DREAMWEB - Responsive Business Theme</a>
+					<div class="hovereffect">
+						<img class="img-responsive" src="img/dreamweb.png" alt="">
+						<div class="overlay">
+							 <h2>DREAMWEB</h2>
+							 <a class="info" href="http://envytheme.com/Dreamweb/" target="_blank">Preview</a>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+			<div class="clearfix visible-xs-block"></div>
+			<div style="margin-top:25px;" class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+				<div class="item">
+					<a class="theme-link" href="http://envytheme.com/Mirth/" target="_blank">Mirth - Onepage Corporate HTML Template</a>
+					<div class="hovereffect">
+						<img class="img-responsive" src="img/mirth.jpg" alt="">
+						<div class="overlay">
+							 <h2>MIRTH</h2>
+							 <a class="info" href="http://envytheme.com/Mirth/" target="_blank">Preview</a>
+						</div>
+					</div>
+				</div>
+			</div>
+			
+		</div>
+	</div>
+							
+							<div class="form-area">
+							
+								<p class="lead">If you would like to get professional template design services from us, please send us e-mail to: info at envytheme.com.</p>
+								
+								<!-- Subscription form -->
+								<form action="index.php" method="post" class="subscription-form form-inline" id="subscription-form">
+									<!-- Email field -->
+									<input class="subscription-email" id="subscription-email" name="email" placeholder="Enter your email address" type="email"  required>
+									<!-- /Email field -->
+
+									<!-- Subscribe button -->
+									<div class="subscription-submit-container">
+										<button  type="submit" name="subscribe" class="subscription-submit btn btn-large" id="subscription-submit">SUBSCRIBE :)</button>
+									</div>
+									<!-- /Subscribe button -->
+								</form>
+								<!-- /Subscription form -->
+								
+															</div>
+							
+							<div class="footer">
+								<p class="lead">&copy  Envy Theme,  2018, All Rights Reserved.</p>
+							</div>
+
+						</div>
+						<!-- //.row -->
+					</div>
+					<!-- //.container -->
+        		</div> 
+			</div>
+      		<!-- //.intro-body -->
+    	</section>
+		
+		
+		
+		
+		<!-- Modal -->
+		<div class="modal fade custom-modal" id="myModal" role="dialog">
+			<div class="modal-dialog modal-lg">
+			  <!-- Modal content-->
+				<div class="modal-content">
+					<div class="modal-header">
+						<button type="button" class="close" data-dismiss="modal">&times;</button>
+					</div>
+					<div class="modal-body">
+						<div class="intro-text text-center">
+							<h2>EnvyTheme - Free & Premium High Quality Templates</h2>
+
+							<p class="lead">Join our community to get download links for our free and premium templates.We have been providing professional template design service also support for last five years, we trust on quality and applying all best practices for template design.</p>
+						</div>
+						<!-- //.intro-text -->
+							
+						<div class="modal-form-area">
+						
+							<p class="">If you would like to get professional template design services from us, <br class="hiddin-xs"> please send us e-mail to: info at envytheme.com.</p>
+							
+							<!-- Subscription form -->
+							<form action="index.php" method="post" class="subscription-form form-inline" id="subscription-form">
+								<!-- Email field -->
+								<input class="subscription-email" id="subscription-email" name="email" placeholder="Enter your email address" type="email"  required>
+								<!-- /Email field -->
+
+								<!-- Subscribe button -->
+								<div class="subscription-submit-container">
+									<button  type="submit" name="subscription" class="subscription-submit btn btn-large" id="subscription-submit">SUBSCRIBE :)</button>
+								</div>
+								<!-- /Subscribe button -->
+							</form>
+							<!-- /Subscription form -->
+							
+													</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		
+	    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+	    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+	    <!-- Include all compiled plugins (below), or include individual files as needed -->
+	    <script src="js/bootstrap.min.js"></script>
+	    <script type="javascript">
+			$("#subscription-submit").click(function() {
+			  $( ".infoa" ).fadeOut( "slow", function() {
+			    // Animation complete.
+			  });
+			}); 
+		</script>
+		<script type="text/javascript">
+			$(window).load(function()
+			{
+				$('#myModal').modal('show');
+			});
+			
+			
+			$(".alert-success").fadeTo(2000, 500).slideUp(6000, function(){
+				$(".alert-success").slideUp(500);
+			});
+			$(".alert-info").fadeTo(2000, 500).slideUp(6000, function(){
+				$(".alert-info").slideUp(500);
+				
+			});
+		</script>
+		<script>
+			//$("form").submit(function() { return false; });
+		</script>
+			
+  	</body>
+</html>
